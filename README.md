@@ -4,7 +4,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer and Designer
 --------------------------
 
-I've been immersed in coding for several years, delving into various aspects. Beginning with HTML, I've broadened my horizons and fostered a passion for exploring different facets of technology. Recently, I've ventured into automation, excited to utilize its potential in crafting innovative solutions. Continuously seeking new technologies and frameworks to elevate my skills and drive creative solutions forward.
 
 * 🌍  I'm based in Delhi, India
 * ✉️  You can contact me at [karan.8080dev@gmail.com](mailto:karan.8080dev@gmail.com)
